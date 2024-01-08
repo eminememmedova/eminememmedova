@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eminememmedova&label=Profile%20views&color=0e75b6&style=flat" alt="eminememmedova" /> </p>
 
+- 💬 Ask me about **JS, React.js, Node.js**
+
 - 📫 How to reach me **memmedovaemine553@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
