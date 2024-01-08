@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eminememmedova&label=Profile%20views&color=0e75b6&style=flat" alt="eminememmedova" /> </p>
+
 
 - 💬 Ask me about **JS, React.js, Node.js,HTML, CSS/SCSS, Bootstrap, ExpressJS, MongoDB**
 
