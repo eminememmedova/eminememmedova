@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eminememmedova&label=Profile%20views&color=0e75b6&style=flat" alt="eminememmedova" /> </p>
 
-- 💬 Ask me about **JS, React.js, Node.js**
+- 💬 Ask me about **JS, React.js, Node.js,HTML, CSS/SCSS, Bootstrap, ExpressJS, MongoDB**
 
 - 📫 How to reach me **memmedovaemine553@gmail.com**
 
