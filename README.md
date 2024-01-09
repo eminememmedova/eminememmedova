@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emine Memmedova</h1>
-<h3 align="center">A software engineer from Azerbaijan</h3>
+<h3 align="center">A passionate web developer from Baku</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 
 
